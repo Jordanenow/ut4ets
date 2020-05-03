@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JuegazoCrack.bolsa" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>bolsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.Celda" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAABAAAAAAAAAAAAAABAAAAAAAAAgAAAAAgAAAA=</HashCode>
+      <FileName>Celda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.Jugador" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAIAAQAhAAAAAAAIAAABgAAAAACI=</HashCode>
+      <FileName>jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.manzana" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>manzana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.Material" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAIAAACAAIAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.platano" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>platano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.Program">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.Requisitos" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAQAAAAAAAAgAAgAAQCAAACABAAAAAQAAAAAAEA=</HashCode>
+      <FileName>Requisitos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.salida" Collapsed="true">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegazoCrack.GTramps">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GTramps.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="JuegazoCrack.ITrampas">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trampas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
